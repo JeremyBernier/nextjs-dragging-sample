@@ -1,0 +1,11 @@
+html {
+  font-size: 16px;
+}
+
+ul.list-unstyled {
+  margin: 0;
+  padding: 0;
+}
+ul.list-unstyled li {
+  list-style-type: none;
+}

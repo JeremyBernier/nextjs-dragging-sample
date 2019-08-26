@@ -1,0 +1,27 @@
+{
+  "name": "sifi-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "eslint-loader": "^3.0.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.0.5",
+    "next-redux-wrapper": "^3.0.0",
+    "react": "16.9.0",
+    "react-dom": "16.9.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
