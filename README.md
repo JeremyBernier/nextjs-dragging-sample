@@ -6,6 +6,8 @@ This is for an interview under a 2 hour time constraint, so should not be consid
 * Styling
 * Debounce
 * clean up code (eg. dragging)
+* selectors
+* normalizr
 
 ## Instructions:
 
