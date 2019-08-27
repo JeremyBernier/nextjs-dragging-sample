@@ -49,7 +49,7 @@ export const reducer = (state = INITIAL_STATE, action) => {
 
     case actionTypes.UPDATE_LESSONS_ORDER: {
       const lesson1 = state.draggedItem
-      if ((state.draggedItem == null) /* somehow this occasionally happens */
+      if ((state.draggedItem == null)
         || (lesson1 === action.lesson2)) {
         // abort
         return state
